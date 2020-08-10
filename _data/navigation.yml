@@ -2,5 +2,10 @@
   link: /
 - name: About
   link: /about.html
+<<<<<<< HEAD
 - name : Blog
   link : /blog.html
+=======
+- name: Blog
+  link: /blog.html
+>>>>>>> master
