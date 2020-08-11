@@ -1,0 +1,14 @@
+- name: Home
+  link: /
+- name: Resume
+  link: /resume.html
+- name: Project
+  link: /project.html
+- name : Vision School
+  link : /vision_school.html
+- name : Footprints
+  link : /footprints.html
+- name : Episode
+  link : /episode.html
+- name : Site Map
+  link : /site_map.html
