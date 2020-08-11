@@ -18,6 +18,4 @@ defaults:
     values:
       layout: "default"
 
-# Site settings
 
-url:            "https://thinpig1130.github.io/portfolio"
