@@ -7,15 +7,20 @@ defaults:
       path: ""
       type: "authors"
     values:
-      layout: "author"
+      layout: "_author"
   - scope:
       path: ""
       type: "posts"
     values:
-      layout: "post"
+      layout: "_post"
+  - scope:
+      path: "singles"
+      type: "pages"
+    values:
+      layout: "base"
   - scope:
       path: ""
     values:
-      layout: "base"
+      layout: "home"
 
 

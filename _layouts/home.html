@@ -1,0 +1,19 @@
+---
+layout: base
+---
+<!-- Home -->
+<section id="banner">
+    <div class="content">
+        <header>
+            <h1>{{page.greetings}}</h1>
+            <p>{{page.introduce}}</p>
+        </header>
+        <p>{{ content }}</p>
+        <ul class="actions">
+            <li><a href="{{ '' | prepend: site.baseurl }}" class="button big">About Me</a></li>
+        </ul>
+    </div>
+    <span class="image object">
+        <img src="{{ "assets/images/pic10.jpg" | relative_url }}" alt="" />
+    </span>
+</section>
