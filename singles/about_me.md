@@ -1,0 +1,7 @@
+---
+---
+<section>
+        <header class="major">
+                <h2>About Me</h2>
+        </header>
+</section>

@@ -2,12 +2,13 @@
 <div id="sidebar">
     <div class="inner">
 
-        <!-- Search -->
+        <!-- Search 
             <section id="search" class="alt">
                 <form method="post" action="#">
                     <input type="text" name="query" id="query" placeholder="Search" />
                 </form>
             </section>
+        -->
 
         <!-- Menu -->
             <nav id="menu">
@@ -18,18 +19,18 @@
                     
                     {% for item in site.data.sidemenu %}
                     <li>
-                        <a href="{{ item.link | prepend: site.baseurl }}" {% if page.url == (site.baseurl+item.link) %} class="current" {% endif %}>{{ item.name }}</a>
+                        {% if item.sub == null %}
+                            <a href="{{ item.link | prepend: site.baseurl }}">{{ item.name }}</a>
+                        {% else %}
+                            <span class="opener">{{ item.name }}</span>
+                            <ul>
+                            {% for sub_item in item.sub %}
+                                <li><a href="{{ sub_item.link | prepend: site.baseurl }}">{{ sub_item.name }}</a></li>
+                            {% endfor %}
+                            </ul> 
+                        {% endif %}
                     </li>
                     {% endfor %}
-                    <li>
-                        <span class="opener">Submenu</span>
-                        <ul>
-                            <li><a href="#">Lorem Dolor</a></li>
-                            <li><a href="#">Ipsum Adipiscing</a></li>
-                            <li><a href="#">Tempus Magna</a></li>
-                            <li><a href="#">Feugiat Veroeros</a></li>
-                        </ul>
-                    </li>
                 </ul>
             </nav>
 

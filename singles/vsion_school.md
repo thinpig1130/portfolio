@@ -1,0 +1,7 @@
+---
+---
+<section>
+        <header class="major">
+                <h2>Vision School</h2>
+        </header>
+</section>
