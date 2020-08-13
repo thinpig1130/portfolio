@@ -1,27 +1,29 @@
-- name: Home
+- name: 홈
   link: /
 # 자기소개서???
-- name: About Me
+- name: 사람
   link: /singles/about_me.html
 # 기술모음집?
-- name: Skills
+- name: 기술
   link: /singles/skills.html
 # 프로젝트
-- name: Projects
+- name: 프로젝트
   link: /singles/projects.html
 # 6개월간 과정
-- name : Vision School
-  link : /singles/vsion_school.html
+- name: 비젼직업전문학교
+  link: /singles/vsion_school.html
 # 포토폴리오 사이트 맵
-- name : Site Map
-  link : /singles/site_map.html
+- name: 사이트 맵
+  link: /singles/site_map.html
 # 기술 블로그
-- name : Study Log
-  link : /
-  sub :
+- name: 나를 위한 메모
+  link: /
+  sub:
     - name: JAVA
       link: /
     - name: jekyll
       link: /
-    - name: G
+    - name: R
+      link: /
+    - name: Python
       link: /
