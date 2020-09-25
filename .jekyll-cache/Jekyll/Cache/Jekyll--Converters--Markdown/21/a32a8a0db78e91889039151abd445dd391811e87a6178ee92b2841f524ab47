@@ -1,0 +1,63 @@
+I"�
+<!-- Skills -->
+<section>
+    <header class="major">
+        <h2>My Skills</h2>
+    </header>
+    <div class="features">
+    <table class="table table-striped">
+        <tbody>
+            <thead>
+            <tr>
+                <th colspan="2" scope="row"> Languege </th>
+            </tr>
+            </thead>
+            <tr>
+                <th scope="row"><i class="fab fa-cuttlefish"></i></th>
+                <td>절차지향 언어가 가진 특징과 컴파일을 언어의 실행구조 알고 있으며, 다차원 배열, 다중 포인터를 활용한 프로그램 작성 및 디버깅 가능. [ C로 배우는 프로그래밍 기초 – 강환수 저 ] 서적의 2판 인쇄를 위한 프로그래밍 오자 검토 및 수정에 참여. 동급생의 C언어 튜터링과 C언어 과외를 담당.</td>
+            </tr>
+            <tr>
+            <th scope="row"><i class="fab fa-java"></i></th>
+            <td>Jacob</td>
+            </tr>
+            <tr>
+            <th scope="row">3</th>
+            <td>Larry</td>
+            <td>the Bird</td>
+            <td>@twitter</td>
+            </tr>
+        </tbody>
+    </table>
+        <article>
+            <span class="icon fa-angular"></span>
+            <div class="content">
+                <i class="fab fa-angular"></i>
+                <i class="fab fa-html5"></i>
+                <h3>Portitor ullamcorper</h3>
+                <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+            </div>
+        </article>
+        <article>
+            <span class="icon fa-paper-plane"></span>
+            <div class="content">
+                <h3>Sapien veroeros</h3>
+                <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+            </div>
+        </article>
+        <article>
+            <span class="icon solid fa-rocket"></span>
+            <div class="content">
+                <h3>Quam lorem ipsum</h3>
+                <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+            </div>
+        </article>
+        <article>
+            <span class="icon solid fa-signal"></span>
+            <div class="content">
+                <h3>Sed magna finibus</h3>
+                <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+            </div>
+        </article>
+    </div>
+</section>
+:ET
