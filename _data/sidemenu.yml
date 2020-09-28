@@ -10,11 +10,11 @@
 - name: 프로젝트
   link: /singles/projects.html
 # 6개월간 과정
-- name: 비젼직업전문학교
+- name: 비젼직업전문학교 ( 10.15 졸업 예정 )
   link: /singles/vsion_school.html
 # 기술 블로그
-- name: 나를 위한 메모
+- name: 나를 위한 메모 (blog)
   link: /
   sub:
-    - name: blog 준비 중...
+    - name: POST 준비 중...
       link: /

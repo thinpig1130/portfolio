@@ -1,0 +1,146 @@
+I"�<section>
+        <header class="major">
+                <h2>Vision School</h2>
+        </header>
+</section>
+<h3> AI활용 파이썬장고웹 개발자 과정 ( NCS : 정보통신 20 )</h3>
+<table>
+        <thead>
+                <tr>
+                <th>능력단위</th>
+                <th>세부내용</th>
+                <th>이수여부</th>
+                </tr>
+        </thead>
+        <tbody>
+        <tr>
+                <td>요구사항확인</td>
+                <td>uml</td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td>요구사항확인</td>
+                <td>UML</td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td>화면설계</td>
+                <td>UML, HTML </td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td>인터페이스설계</td>
+                <td>Java, JSP</td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td>프로그래밍언어활용</td>
+                <td>Java, Python</td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td>SQL 활용</td>
+                <td>Oracle DB</td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td>정보시스템이행</td>
+                <td>프로젝트 완성, API 문서 제작</td>
+                <td>이수</td>
+        </tr>
+        &lt;/tr&gt;
+        <tr>
+                <td>데이터 입출력 구현</td>
+                <td>Procedure, Trigger </td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td>인터페이스구현</td>
+                <td>JSP, JavaFX, WX_Python  </td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td>통합구현</td>
+                <td>Spring, Mybatis, Git, Team Mission </td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td>애플리케이션 요구사항 분석</td>
+                <td>UML_SHINVAS </td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td>애플리케이션 설계</td>
+                <td>JSP, 공통모듈 </td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td>애플리케이션 테스트 수행</td>
+                <td>Unit Test, 결함 조치 </td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td>애플리케이션 배포</td>
+                <td>Tomcat, Apache Tomcat 이용한 배포</td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td>응용소프트웨어 기초기술 활용</td>
+                <td> </td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td> 데이터베이스 요구사항 분석</td>
+                <td> </td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td> 서버프로그램 구현 </td>
+                <td> </td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td> 애플리케이션 테스트 관리 </td>
+                <td> </td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td> 제품 소프트웨어 패키징 </td>
+                <td> </td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td> 데이터사이언스 </td>
+                <td> 크롤링, 머신러닝, 데이터분석, 데이터 시각화 </td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td> 프로젝트 수행 </td>
+                <td> 팀 프로젝트 </td>
+                <td>이수</td>
+        </tr>
+        </tbody>
+</table>
+
+<p>
+[ 화면설계 ] User Case Diagram &amp; 화면설계 PPT <br />
+[ 화면구현 ] HTML/CSS/Javascript 활용한 UI 구현 <br />
+[ 성적처리 Rank Mark ] 등수처리 프로그램 JAVA FXML 활용 <br />	
+[ 프로그래밍 언어 활용 ] JAVA FXML + ORACLE DATABASE 이용한 가계부<br />
+[ 인터페이스구현] JSP, Servlet을 활용한 지역모임 사이트 (기본기능 게시판) <br />
+[ 통합구현 ] MyBatis를 활용한 웹서비스 통합구현 (기본기능 게시판) <br />
+[ 애플리케이션 설계 ] 설문조사, 블로그, 북마크 기능이 있는 파이썬장고웹 어플리케이션을 설계 (ft. 부트스트랩) <br />
+[ 애플리케이션 테스트 수행 ] 테스트 케이서 문서 작성 실습. 파일첨부<br />
+[ 애플리케이션 배포 ] Django 어플리케이션을 배포작업 문서와 화면 동영상첨부 파일첨부<br />
+[ 운영체제기초활용 ] My Linux Cheatsheet (나만의 Linux Cheatsheet 만들기) 파일첨부	<br />
+[ 네트워크기초활용 ] JAVA의 Socket, Thread 활용한 통신프로그램 'Retro Chat' <br />
+[ 데이터베이스요구사항분석 ] ERD 작성<br />
+[ 서버프로그램구현 ] 자바/스프링으로 구현한 MVC 게시판 1 사진첨부 동영상첨부<br />	
+[ 애플리케이션 테스트관리 ] 구현의 테스트케이스들 샘플 작성 사진첨부 파일첨부<br />
+[ 제품소프트웨어패키징] 구현물의 패키징 (WAR파일 만들기 &amp; 메뉴얼 작성) 1 파일첨부<br />
+[ 워드 클라우드 만들기 ] 인크루트 사이트에서 크롤링 된 정보를 이용하여 워드 클라우드 완성 1 <br />
+[ 데이터 사이언스 _ 빅데이터플랫폼 요구사항 분석] 이론 중심 수업<br />
+[ 데이터사이언스_빅데이터플랫폼아키텍처설계 ] 이론 중심 수업<br />
+[ 데이터사이언스_빅데이터처리시스템개발 ] 이론 중심 수업<br />
+</p>
+:ET
