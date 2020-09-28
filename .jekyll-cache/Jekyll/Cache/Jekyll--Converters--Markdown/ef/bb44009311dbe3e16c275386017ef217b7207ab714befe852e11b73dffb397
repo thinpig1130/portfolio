@@ -1,0 +1,123 @@
+I"w<section>
+        <header class="major">
+                <h2>Vision School</h2>
+        </header>
+        <h3> [  AI활용 파이썬장고웹 개발자 과정  ] </h3>
+        <h4> NCS 분야 :&nbsp; &nbsp; &nbsp; 정보통신(20) &nbsp; <i class="fas fa-arrow-circle-right"></i> &nbsp; 
+        정보기술(01)  &nbsp; <i class="fas fa-arrow-circle-right"></i> &nbsp; 
+        정보기술개발(02)   &nbsp; <i class="fas fa-arrow-circle-right"></i> &nbsp;
+        응용소프트웨어 엔지니어(02) </h4>
+</section>
+
+<table>
+        <thead>
+        <tr>
+                <th>능력단위</th>
+                <th>세부내용</th>
+                <th>이수여부</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+                <td>요구사항확인</td>
+                <td>UML</td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td>화면설계</td>
+                <td>UML, HTML </td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td>인터페이스설계</td>
+                <td>Java, JSP</td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td>프로그래밍언어활용</td>
+                <td>Java, Python</td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td>SQL 활용</td>
+                <td>Oracle DB</td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td>정보시스템이행</td>
+                <td>프로젝트 완성, API 문서 제작</td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td>데이터 입출력 구현</td>
+                <td>Procedure, Trigger </td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td>인터페이스구현</td>
+                <td>JSP, JavaFX, WX_Python  </td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td>통합구현</td>
+                <td> Spring, Mybatis, Git, Team Mission </td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td>애플리케이션 요구사항 분석</td>
+                <td>UML_SHINVAS </td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td>애플리케이션 설계</td>
+                <td>JSP, 공통모듈 </td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td>애플리케이션 테스트 수행</td>
+                <td>Unit Test, 결함 조치 </td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td>애플리케이션 배포</td>
+                <td>Tomcat, Apache Tomcat 이용한 배포</td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td>응용소프트웨어 기초기술 활용</td>
+                <td> Thread, Sorcket, Stream, lamda 등 중급 Java </td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td> 데이터베이스 요구사항 분석</td>
+                <td> ERD 작성 </td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td> 서버프로그램 구현 </td>
+                <td> Class Diagram </td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td> 애플리케이션 테스트 관리 </td>
+                <td> Junit, Test Case 문서 작성 </td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td> 제품 소프트웨어 패키징 </td>
+                <td> WAR 파일 생성, 메뉴얼 작성</td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td> 데이터사이언스 </td>
+                <td> 크롤링, 머신러닝, 데이터분석, 데이터 시각화 </td>
+                <td>이수</td>
+        </tr>
+        <tr>
+                <td> 프로젝트 수행 </td>
+                <td> 팀 프로젝트 </td>
+                <td>이수</td>
+        </tr>
+        </tbody>
+</table>
+:ET

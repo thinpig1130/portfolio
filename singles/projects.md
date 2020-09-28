@@ -8,50 +8,80 @@
     <div class="posts">
         <article>
             <a href="#" class="image"><img src="{{ "assets/images/project/welearn.png" | relative_url }}" alt="" /></a>
-            <h3> weLEarn (웰런) </h3>
-            <p> POST 코로나 시대를 자기개발의 기회로 삼는 사람들을 지원해 주기 위한 ‘자가발전 학습 지원 시스템’. <br> 프로젝트 참여인원 : 2명</p>
+            <h4> weLEarn (웰런) </h4>
+            <p class="text-center"> #JAVA &nbsp; #SPRING &nbsp; <br> #OracleDB &nbsp; #Bootstrap &nbsp; #Mybatis  </p>
+            <ul>
+                <li>2020.08.24 ~ 2020.09.20 ( 4주 )</li>
+                <li>직업훈련 졸업 프로젝트 (팀인원 2명)</li>
+                <li>자가발전 학습 지원 시스템</li>
+            </ul>
             <ul class="actions">
-                <li><a href="https://github.com/thinpig1130/lms_system.git" class="button">Code</a></li>
+                <li><a href="https://github.com/thinpig1130/lms_system.git"><i class="fab fa-github fa-3x"></i></a></li>
             </ul>
         </article>
         <article>
             <a href="#" class="image"><img src="{{ "assets/images/project/retrochat.png" | relative_url }}" alt="" /></a>
-            <h3>Retro Chat</h3>
-            <p>IP 주소를 이용하여 채팅 서버에 접속하는 복고풍 챗팅 애플리케이션. </p>
+            <h4>Retro Chat</h4>
+            <p class="text-center"> #JAVA &nbsp; #javaFX &nbsp; #Socket &nbsp; #Thread </p>
+            <ul>
+                <li>2020.07.6 ~ 2020.07.10 ( 5일 )</li>
+                <li>개인 프로젝트</li>
+                <li>레트로 감성 챗팅 애플리케이션</li>
+            </ul>
             <ul class="actions">
-                <li><a href="" class="button">Code</a></li>
+                <li><a href="https://github.com/thinpig1130/RetroChat.git"><i class="fab fa-github fa-3x"></i></a></li>
             </ul>
         </article>
         <article>
             <a href="#" class="image"><img src="{{ "assets/images/project/fatum.png" | relative_url }}" alt="" /></a>
-            <h3>Tempus ullamcorper</h3>
-            <p> HTML5 기술을 활용(HTML, CSS, Vanilla JS)하여 만든 할 일 관리 웹 앱. </p>
+            <h4>Fatum (파툼) </h4>
+             <p class="text-center"> #HTML &nbsp; #CSS &nbsp; #Vanilla JS &nbsp;  <br> #JSON  &nbsp; #LocalStorage </p>
+            <ul>
+                <li>2020.04.9 ~ 2020.05.18 ( 짬짬이 진행 )</li>
+                <li>개인 프로젝트</li>
+                <li>다중 사용자 할일 관리 웹 앱</li>
+            </ul>
             <ul class="actions">
-                <li><a href="https://github.com/thinpig1130/RetroChat.git" class="button">Code</a></li><li><a href="#" class="button">Demo</a></li>
+                <li><a href="https://github.com/thinpig1130/Fatum.git"><i class="fab fa-github fa-3x"></i></a></li><li><a href="https://thinpig1130.github.io/Fatum"><i class="fas fa-play-circle fa-3x"></i></a></li>
             </ul>
         </article>
         <article>
             <a href="#" class="image"><img src="{{ "assets/images/project/testpro.png" | relative_url }}" alt="" /></a>
-            <h3> Fatum (파툼) </h3>
-            <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+            <h4>TestPro</h4>
+            <p class="text-center"> #Python &nbsp; #Django &nbsp; #SQLite &nbsp; #Bootstrap</p>
+            <ul>
+                <li>2020.06.22 ~ 2020.06.23 ( 2일 )</li>
+                <li> 장고 프레임워크 응용 과제 </li>
+                <li> 간단한 게시판 관리 사이트</li>
+            </ul>
             <ul class="actions">
-                <li><a href="https://github.com/thinpig1130/Fatum.git" class="button">Code</a></li>
+                <li><a href="" class="button">코드 공개 준비 중</a></li>
             </ul>
         </article>
         <article>
             <a href="#" class="image"><img src="{{ "assets/images/project/meme.png" | relative_url }}" alt="" /></a>
-            <h3> for ME </h3>
-            <p> Github에서 기본적으로 제공하는 Ruby 기반 jekyll 프레임워크를 이용하여 개인 포트폴리오 및 블로깅을 할 수 있는 웹 사이트 구현. </p>
+            <h4> forMe </h4>
+            <p class="text-center"> #Jekyll &nbsp; #Github-pages &nbsp; #Bootstrap &nbsp; </p>
+            <ul>
+                <li>2020.08.04 ~ 2020.08.12 ( 짬짬이 진행 ) </li>
+                <li> 개인 프로젝트 </li>
+                <li> 포트폴리오 공개 및 블로깅을 위한 사이트</li>
+            </ul>
             <ul class="actions">
-                <li><a href="https://github.com/thinpig1130/portfolio.git" class="button">Code</a></li>
+                <li><a href="https://github.com/thinpig1130/portfolio.git"><i class="fab fa-github fa-3x"></i></a></li><li><a href="https://thinpig1130.github.io/portfolio"><i class="fas fa-play-circle fa-3x"></i></a></li>
             </ul>
         </article>
         <article>
             <a href="#" class="image"><img src="{{ "assets/images/project/wordcloud.png" | relative_url }}" alt="" /></a>
-            <h3> Wordcloud </h3>
-            <p> Incruit IT 분야 채용 분야를 크롤링 하고 데이터 정제 하여 시각화.</p>
+            <h4> Wordcloud </h4>
+             <p class="text-center"> #R &nbsp; #Python &nbsp; #.csv <br> #crawling  &nbsp; 데이터정제</p>
+            <ul>
+                <li> 2020.08.05  ( 1 일 )</li>
+                <li> 파이썬 크롤링 R 시각화 응용 과제 </li>
+                <li> Incruit IT 분야 채용 분야 시각화.</li>
+            </ul>
             <ul class="actions">
-                <li><a href="#" class="button">More</a></li>
+                <li><a href="" class="button">코드 공개 준비 중</a></li>
             </ul>
         </article>
     </div>
