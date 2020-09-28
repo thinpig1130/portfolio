@@ -12,18 +12,9 @@
 # 6개월간 과정
 - name: 비젼직업전문학교
   link: /singles/vsion_school.html
-# 포토폴리오 사이트 맵
-- name: 사이트 맵
-  link: /singles/site_map.html
 # 기술 블로그
 - name: 나를 위한 메모
   link: /
   sub:
-    - name: JAVA
-      link: /
-    - name: jekyll
-      link: /
-    - name: R
-      link: /
-    - name: Python
+    - name: blog 준비 중...
       link: /
