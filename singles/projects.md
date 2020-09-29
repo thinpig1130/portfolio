@@ -7,7 +7,7 @@
     </header>
     <div class="posts">
         <article>
-            <a href="#" class="image"><img src="{{ "assets/images/project/welearn.png" | relative_url }}" alt="" /></a>
+            <a href="#" class="image"><img src="{{ "assets/images/project/welearn.gif" | relative_url }}" alt="" /></a>
             <h4> weLEarn (웰런) </h4>
             <p class="text-center"> #JAVA &nbsp; #SPRING &nbsp; <br> #OracleDB &nbsp; #Bootstrap &nbsp; #Mybatis  </p>
             <ul>
@@ -20,7 +20,7 @@
             </ul>
         </article>
         <article>
-            <a href="#" class="image"><img src="{{ "assets/images/project/retrochat.png" | relative_url }}" alt="" /></a>
+            <a href="#" class="image"><img src="{{ "assets/images/project/retro_chat.gif" | relative_url }}" alt="" /></a>
             <h4>Retro Chat</h4>
             <p class="text-center"> #JAVA &nbsp; #javaFX &nbsp; #Socket &nbsp; #Thread </p>
             <ul>
@@ -33,7 +33,7 @@
             </ul>
         </article>
         <article>
-            <a href="#" class="image"><img src="{{ "assets/images/project/fatum.png" | relative_url }}" alt="" /></a>
+            <a href="#" class="image"><img src="{{ "assets/images/project/fatum.gif" | relative_url }}" alt="" /></a>
             <h4>Fatum (파툼) </h4>
              <p class="text-center"> #HTML &nbsp; #CSS &nbsp; #Vanilla JS &nbsp;  <br> #JSON  &nbsp; #LocalStorage </p>
             <ul>
