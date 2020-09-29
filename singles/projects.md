@@ -23,7 +23,7 @@
         <article>
             <a href="#" class="image"><img src="{{ "assets/images/project/retro_chat.gif" | relative_url }}" alt="" /></a>
             <h4>Retro Chat</h4>
-            <p class="text-center"> #JAVA &nbsp; #javaFX &nbsp; #Socket &nbsp; #Thread <br></p>
+            <p class="text-center"> #JAVA &nbsp; #javaFX &nbsp; #Socket &nbsp; #Thread <br>  &nbsp; </p>
             <ul>
                 <li>2020.07.6 ~ 2020.07.10 ( 5일 )</li>
                 <li>개인 프로젝트</li>
@@ -49,7 +49,7 @@
         <article>
             <a href="#" class="image"><img src="{{ "assets/images/project/testpro.gif" | relative_url }}" alt="" /></a>
             <h4>TestPro</h4>
-            <p class="text-center"> #Python &nbsp; #Django &nbsp; #SQLite &nbsp; #Bootstrap<br></p>
+            <p class="text-center"> #Python &nbsp; #Django &nbsp; #SQLite &nbsp; #Bootstrap<br>  &nbsp;</p>
             <ul>
                 <li>2020.06.22 ~ 2020.06.23 ( 2일 )</li>
                 <li> 장고 프레임워크 응용 과제 </li>
@@ -62,7 +62,7 @@
         <article>
             <a href="#" class="image"><img src="{{ "assets/images/project/meme.gif" | relative_url }}" alt="" /></a>
             <h4> forMe </h4>
-            <p class="text-center"> #Jekyll &nbsp; #Github-pages &nbsp; #Bootstrap &nbsp; <br></p>
+            <p class="text-center"> #Jekyll &nbsp; #Github-pages &nbsp; #Bootstrap &nbsp; <br> &nbsp; </p>
             <ul>
                 <li>2020.08.04 ~ 2020.08.12 ( 짬짬이 진행 ) </li>
                 <li> 개인 프로젝트 </li>
