@@ -1,2 +1,3 @@
 # portfolio
-Start portfolio work for employment
+
+학원을 졸업하며 취업을 위해 만든 포트 폴리오 사이트
